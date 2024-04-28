@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #0f0e0e;
+    margin: 0;
+    padding: 0;
 }
 .calculator {
     width: 340px;
